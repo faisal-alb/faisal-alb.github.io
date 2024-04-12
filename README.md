@@ -1,5 +1,7 @@
 # Faisal's Portfolio
-### My Portfolio for Programming 101, Spring 2024.- Main Menu
+### My Portfolio for Programming 101, Spring 2024.
+
+- Main Menu
 ![Main Menu of Adventure Game](/sm-mainmenu.png)
 
 - Ingame Menu
